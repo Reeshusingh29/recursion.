@@ -2,7 +2,7 @@
 using namespace std;
 int bs(int arr[],int n,int s,int e,int key){
 	
-	//base case
+	//base case hello new branch
 	
 	if(s>e){
 		return false;
